@@ -220,7 +220,6 @@
 
 
 	<build>
-	  <pluginManagement>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -236,6 +235,5 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		</pluginManagement>
 	</build>
 </project>
